@@ -1,3 +1,3 @@
 # wordpair_generator
 
-Flutter Practice WordPair_Generator Project
+Flutter Practice WordPair_Generator Project with Traversy Media
